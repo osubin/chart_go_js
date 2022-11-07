@@ -1,0 +1,8 @@
+#employeeDiagram{
+    background-color: black;
+    width: 80%;
+    height: 80%;
+}
+#depth1Dep > div{
+    float:left;
+}
